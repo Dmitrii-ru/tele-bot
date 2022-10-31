@@ -5,7 +5,7 @@ from parsing import film_torr
 bot = telebot.TeleBot('5642416642:AAH0H5GLtq_S7kihiyXxmn8Ref-hapj0yvA')
 
 helper = 'Список команд\n' \
-         'fl = FilmTorrent\n' \
+         'ft = FilmTorrent\n' \
          'op = Орел/Пешка\n'
 
 
