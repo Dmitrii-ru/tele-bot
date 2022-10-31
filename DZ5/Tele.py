@@ -2,7 +2,7 @@ import telebot
 from parsing import film_torr
 
 # MyFirstDimawqwqwqwqwqwBot
-bot = telebot.TeleBot('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+bot = telebot.TeleBot('5642416642:AAH0H5GLtq_S7kihiyXxmn8Ref-hapj0yvA')
 
 helper = 'Список команд\n' \
          'fl = FilmTorrent\n' \
